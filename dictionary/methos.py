@@ -38,4 +38,4 @@ print("update():", d)
 
 # 11. clear()
 d.clear()
-print("clear():", d)  # {}
+print("clear():", d)
