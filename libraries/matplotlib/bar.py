@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-x = ['A', 'B', 'C', 'D']
-y = [10, 15, 7, 12]
-plt.bar(x, y, color='pink')
+x = ['Vivek Income', 'Atharv Income', 'Abhi Income', 'Pratik Income']
+y = [10000, 15000, 7000, 12000]
+plt.bar(x, y, color='silver')
 plt.title("Bar Graph")
 plt.show()
