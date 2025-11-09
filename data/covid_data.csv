@@ -1,0 +1,39 @@
+Country,State,Gender,Age,Confirmed,Recovered,Deaths,Date
+India,Maharashtra,Male,45,50000,48000,2000,2021-05-01
+India,Maharashtra,Female,35,40000,38000,2000,2021-05-01
+India,Karnataka,Male,50,30000,28000,2000,2021-05-01
+India,Karnataka,Female,30,25000,24000,1000,2021-05-01
+USA,California,Male,60,70000,69000,1000,2021-05-01
+USA,Texas,Female,40,55000,54000,1000,2021-05-01
+UK,England,Male,45,65000,63000,2000,2021-05-01
+UK,Scotland,Female,38,32000,31000,1000,2021-05-01
+Japan,Tokyo,Male,33,30000,29500,500,2021-05-01
+Japan,Osaka,Female,27,20000,19800,200,2021-05-01
+Canada,Ontario,Male,41,25000,24000,1000,2021-05-01
+Canada,Quebec,Female,36,28000,27500,500,2021-05-01
+Germany,Bavaria,Male,40,30000,29000,1000,2021-05-01
+Germany,Berlin,Female,35,20000,19500,500,2021-05-01
+France,Paris,Male,39,28000,27000,1000,2021-05-01
+France,Lyon,Female,29,24000,23000,1000,2021-05-01
+Italy,Rome,Male,50,32000,31000,1000,2021-05-01
+Italy,Milan,Female,44,29000,28000,1000,2021-05-01
+Brazil,Sao Paulo,Male,52,40000,38000,2000,2021-05-01
+Brazil,Rio de Janeiro,Female,35,35000,34000,1000,2021-05-01
+Australia,New South Wales,Male,40,18000,17500,500,2021-05-01
+Australia,Victoria,Female,33,15000,14800,200,2021-05-01
+Russia,Moscow,Male,46,42000,40000,2000,2021-05-01
+Russia,St Petersburg,Female,38,30000,29500,500,2021-05-01
+China,Beijing,Male,48,50000,49500,500,2021-05-01
+China,Shanghai,Female,35,45000,44800,200,2021-05-01
+South Africa,Gauteng,Male,37,22000,21000,1000,2021-05-01
+South Africa,KwaZulu-Natal,Female,34,20000,19500,500,2021-05-01
+Spain,Madrid,Male,40,26000,25000,1000,2021-05-01
+Spain,Barcelona,Female,30,24000,23500,500,2021-05-01
+Mexico,Mexico City,Male,42,28000,27000,1000,2021-05-01
+Mexico,Guadalajara,Female,36,25000,24500,500,2021-05-01
+Argentina,Buenos Aires,Male,39,30000,29000,1000,2021-05-01
+Argentina,Cordoba,Female,29,26000,25500,500,2021-05-01
+Singapore,Central Region,Male,32,18000,17800,200,2021-05-01
+Singapore,West Region,Female,28,15000,14900,100,2021-05-01
+UAE,Dubai,Male,35,22000,21800,200,2021-05-01
+UAE,Abu Dhabi,Female,31,20000,19800,200,2021-05-01
